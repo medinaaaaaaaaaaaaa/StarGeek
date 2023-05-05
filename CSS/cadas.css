@@ -1,0 +1,65 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.logo{
+    height: 200px;
+}
+
+.box{
+    background-color: rgb(47, 47, 47);
+    width: 386px;
+    height: 650px;
+    margin-left: 550px;
+    border: 1px solid rgba(255, 250, 250, 0.538);
+    border-radius: 10px;
+}
+
+.cen{
+    text-align: center;
+    color: snow;
+}
+
+.log{
+    border: none;
+}
+
+.log{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    padding: 10px;
+   width: 250px;
+   background-color: rgba(236, 231, 231, 0);
+   margin-top: 60px;
+   margin-bottom: 15px;
+
+  }
+
+input{
+    margin-left: 51px;
+}
+
+.botao{
+ border: 1px solid red;
+ background-color: red;
+ text-decoration: none;
+ color: snow;
+ padding: 15px;
+ border-radius: 10px;
+ margin-top: 15px;
+ flex-direction: column;
+ text-align: center;
+ margin-left: 129px;
+
+}
+
+.bax{
+    margin-bottom: 35px;
+}
+
+::placeholder{
+    color: snow;
+}
